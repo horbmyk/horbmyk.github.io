@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "3D Shooting Gallery",
+"productVersion": "0.1",
+"dataUrl": "ce57d5cee677f636c8ad2fdcb26658c3.unityweb",
+"wasmCodeUrl": "4f83de967d6a4d2da1edb739b6786177.unityweb",
+"wasmFrameworkUrl": "131ffd1247f3ffc1ae632312f45466aa.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.8f1"
+}
